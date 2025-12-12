@@ -27,7 +27,7 @@ I'm Evan（天宇）[tiān yǔ] (Chinese), you can call me Evan or tiān yǔ.
 - 🌐 Blog (Chinese language): [evan0105.github.io](https://evan0105.github.io/)
 - ❤️ I like Linux, BSD, Music and developing Board Support Packages for embedded Linux products.
 - ⚡ Fun fact: I prefer riding my bike from DAHON.
-- 📬 How to reach me: [e-mail](mailto:tianyu_0105@163.com) / [WeChat, id:loverforever_lili]
+- 📬 How to reach me: [e-mail](mailto:tianyu_0105@163.com) / [WeChat, id:bestenfj_evan]
 
 > Note: If you want to contact me via WeChat, please send me the following sentence at first. Thanks!
 > ```
